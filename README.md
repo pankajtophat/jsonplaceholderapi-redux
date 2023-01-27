@@ -1,1 +1,0 @@
-# jsonplaceholderapi-redux
